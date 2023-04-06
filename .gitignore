@@ -1,0 +1,6 @@
+.cache*
+keys
+setup.txt
+__pycache__/
+audio_files/
+.idea/
